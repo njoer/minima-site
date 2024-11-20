@@ -14,7 +14,7 @@ I am a Mechanical Engineer majoring in Digital Manufacturing. My interests are i
 
 
 
-
+<br><br><br>
 <p>Follow me on <a href="https://www.linkedin.com/in/eero-nurmi-/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" style="width:20px; vertical-align:middle;"></a></p>
 
