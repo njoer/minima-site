@@ -6,12 +6,13 @@ permalink: /about/
 
 My name is Eero Nurmi
 
-I am a Mechanical Engineer majoring in Digital Manufacturing. 
-
-<img src="docs/images/PicoGK_fixt1.svg" alt="My first fixture using PicoGK by LEAP71" width="300">
+I am a Mechanical Engineer majoring in Digital Manufacturing. My interests are in Additive Manufacturing, Machine Learning and Robotics.
 
 
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/eero-nurmi-/)
+
+<p>Follow me on <a href="https://www.linkedin.com/in/eero-nurmi-/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" style="width:20px; vertical-align:middle;"></a></p>
+
 
 
