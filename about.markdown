@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Eero Nurmi
 
-I am a Mechanical Engineer majoring in Digital Manufacturing. My interests are in Additive Manufacturing, Machine Learning and Robotics.
+I am a Mechanical Engineer majoring in Digital Manufacturing. My interests are in Additive Manufacturing and Machine Learning.Mo
 
 
 
