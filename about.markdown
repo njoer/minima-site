@@ -8,8 +8,10 @@ My name is Eero Nurmi
 
 I am a Mechanical Engineer majoring in Digital Manufacturing. 
 
-![My first fixture using PicoGK by LEAP71](docs/images/PicoGK_fixt1.svg)
+<img src="docs/images/PicoGK_fixt1.svg" alt="My first fixture using PicoGK by LEAP71" width="300">
 
 
-[Follow me on LinkedIn](https://www.linkedin.com/in/eero-nurmi-/)
+
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/eero-nurmi-/)
+
 
