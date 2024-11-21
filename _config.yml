@@ -34,6 +34,19 @@ plugins:
 minima:
   skin: auto # or auto if you want it to switch with your system settings.
   
+utterances:
+    theme                :  "github-dark"
+
+author:
+  name             : "Eero Nurmi"
+  avatar           : "/assets/images/as_child.jpg"
+  bio              : "Engineer. What else do you need to know."
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/njoer/" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/eero-nurmi-/" }
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
