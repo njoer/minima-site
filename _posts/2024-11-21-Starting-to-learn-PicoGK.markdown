@@ -5,7 +5,7 @@ date:   2024-11-21 10:35:00 +0200
 categories: picogk update
 ---
 
-# PicoGK by LEAP71
+Starting my journey with computational engineering.
 
 [PicoGK][picogk-github] ('peacock') is an open-source geometry kernel.
 

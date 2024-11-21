@@ -4,6 +4,8 @@ title:  "Building my personal site with Jekyll"
 date:   2024-11-20 11:00:00 +0200
 categories: web development
 ---
+Describing my process on creating this site.
+
 
 I realised that I was in a need for personal web-page that includes my CV, projects and a blog.
 
