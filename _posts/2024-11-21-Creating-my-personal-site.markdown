@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building my personal site with Jekyll"
-date:   2024-11-21 11:00:00 +0200
+date:   2024-11-20 11:00:00 +0200
 categories: web development
 ---
 
