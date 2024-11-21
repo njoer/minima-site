@@ -18,3 +18,6 @@ GitHub offers free hosting for the website. It offers a CI/CD pipeline so that c
 ### Why Jekyll?
 
 > Jekyll is used for 'Simple, blog-aware, static sites'.
+
+#### Jekyll Templates
+There are a variety of free templates available, but for the sake of learning I decided to start building from scratch and keep this site also as a personal project.
