@@ -18,6 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+url: https://njoer.github.io/
+
 title: Eero Nurmi
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
@@ -28,18 +30,16 @@ twitter_username:
 github_username:  njoer
 
 # Build settings
+
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+
 
 minima:
   skin: dark
   
 
-author:
-  name             : "Eero Nurmi"
-  avatar           : "/assets/images/as_child.jpg"
-  bio              : "Engineer. What else do you need to know."
 
 minima:
   social_links:
